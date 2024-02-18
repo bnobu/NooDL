@@ -3,7 +3,9 @@ GoNoodle downloader
 
 # Dependencies
 FFMpeg (any version is fine)
+
 requests (any version is fine)
+
 Python 3
 
 1. Open a web browser.
